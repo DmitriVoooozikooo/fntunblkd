@@ -1,9 +1,9 @@
 {
-"TOTAL_MEMORY": 134217728,
-"dataUrl": "https://github.com/DmitriVoooozikooo/fntunblkd/blob/main/Build/cj3.data.unityweb",
-"asmCodeUrl": "https://cdn.jsdelivr.net/gh/DmitriVoooozikooo/fntunblkd@main/Build/cj3.asm.code.unityweb",
-"asmMemoryUrl": "https://cdn.jsdelivr.net/gh/DmitriVoooozikooo/fntunblkd@main/Build/cj3.asm.memory.unityweb",
-"asmFrameworkUrl": "https://cdn.jsdelivr.net/gh/DmitriVoooozikooo/fntunblkd@main/Build/cj3.asm.framework.unityweb",
-"splashScreenStyle": "Light",
-"backgroundColor": "#80858B"
+  "TOTAL_MEMORY": 268435456,
+  "dataUrl": "https://cdn.jsdelivr.net/gh/DmitriVoooozikooo/a@c70c7935e53e7e830528300b3fe27673fc5bf10c/cj3.data.unityweb?v=284726",
+  "asmCodeUrl": "https://cdn.jsdelivr.net/gh/DmitriVoooozikooo/a@c70c7935e53e7e830528300b3fe27673fc5bf10c/cj3.asm.code.unityweb?v=902374",
+  "asmMemoryUrl": "https://cdn.jsdelivr.net/gh/DmitriVoooozikooo/a@c70c7935e53e7e830528300b3fe27673fc5bf10c/cj3.asm.memory.unityweb?v=475183",
+  "asmFrameworkUrl": "https://cdn.jsdelivr.net/gh/DmitriVoooozikooo/a@c70c7935e53e7e830528300b3fe27673fc5bf10c/cj3.asm.framework.unityweb?v=689231",
+  "splashScreenStyle": "Light",
+  "backgroundColor": "#80858B"
 }
